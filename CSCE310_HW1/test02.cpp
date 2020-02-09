@@ -1,4 +1,4 @@
-#include "csce310homework01part02"
+#include "csce310homework01part02.h"
 #include <iostream>
 
 using namespace std;

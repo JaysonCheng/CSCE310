@@ -5,7 +5,8 @@
 
 using namespace std;
 
-void printPermutations( string , int );
+
+void printPermutations( string word);
 
 #endif
 
