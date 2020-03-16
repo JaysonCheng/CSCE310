@@ -3,7 +3,7 @@
 #include <fstream>
 #include <vector>
 #include <cmath>
-#include "csce310a03part02.h"
+#include "csce310assignment03part02.h"
 using namespace std;
 
 int main(int argc , char* argv[]){
